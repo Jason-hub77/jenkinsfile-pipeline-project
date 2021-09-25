@@ -1,1 +1,1 @@
-print('My first python vaer job.')
+print('My first python vaer BİT job.')
