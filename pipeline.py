@@ -1,1 +1,0 @@
-print('My first python vaer BİT job.')
